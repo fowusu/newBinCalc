@@ -4,7 +4,7 @@ public static void main(String abc[]){
 
 Conversions Qa = new Conversions(); 
 
-Qa.decimalToBinary(14);
+Qa.decimalToBinary(567);
 Qa.binaryToDecimal("1100");
 
 }
